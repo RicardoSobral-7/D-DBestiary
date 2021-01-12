@@ -21,5 +21,5 @@ To start the project you will need to write this following line in the terminal
 ## Author
 * Ricardo Sobral - [Github](https://github.com/RicardoSobral-7) and [LinkedIn](https://www.linkedin.com/in/ricardo-sobral-b8978613a/)
 
-![Bestiary gif]()
+![Bestiary gif](https://github.com/RicardoSobral-7/D-DBestiary/blob/main/DDBestiary.gif)
 
